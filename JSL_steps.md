@@ -66,6 +66,8 @@ git push -u origin master
 
 **I then integrated and used the Jenkins Shared Library in the Jenkins Pipeline job, both globally and for the specific project in the Jenkinsfile**
 
+<img width="1862" height="849" alt="global1" src="https://github.com/user-attachments/assets/2fde440a-6d48-4ee4-bd1c-eee3d9388e86" />
+
+<img width="1555" height="228" alt="global2" src="https://github.com/user-attachments/assets/30028bec-e51a-4609-8a6f-d829e206d753" />
+
 **I then tested it worked by running the jenkins-shared-library pipeline job**
-
-
